@@ -1,0 +1,14 @@
+D:\coding_dojo\C Sharp\C#\CsharpProjects\23-to do versus while challenge activity\bin\Debug\net9.0\23-to do versus while challenge activity.exe
+D:\coding_dojo\C Sharp\C#\CsharpProjects\23-to do versus while challenge activity\bin\Debug\net9.0\23-to do versus while challenge activity.deps.json
+D:\coding_dojo\C Sharp\C#\CsharpProjects\23-to do versus while challenge activity\bin\Debug\net9.0\23-to do versus while challenge activity.runtimeconfig.json
+D:\coding_dojo\C Sharp\C#\CsharpProjects\23-to do versus while challenge activity\bin\Debug\net9.0\23-to do versus while challenge activity.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\23-to do versus while challenge activity\bin\Debug\net9.0\23-to do versus while challenge activity.pdb
+D:\coding_dojo\C Sharp\C#\CsharpProjects\23-to do versus while challenge activity\obj\Debug\net9.0\23-to do versus while challenge activity.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_dojo\C Sharp\C#\CsharpProjects\23-to do versus while challenge activity\obj\Debug\net9.0\23-to do versus while challenge activity.AssemblyInfoInputs.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\23-to do versus while challenge activity\obj\Debug\net9.0\23-to do versus while challenge activity.AssemblyInfo.cs
+D:\coding_dojo\C Sharp\C#\CsharpProjects\23-to do versus while challenge activity\obj\Debug\net9.0\23-to do versus while challenge activity.csproj.CoreCompileInputs.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\23-to do versus while challenge activity\obj\Debug\net9.0\23-to do versus while challenge activity.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\23-to do versus while challenge activity\obj\Debug\net9.0\refint\23-to do versus while challenge activity.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\23-to do versus while challenge activity\obj\Debug\net9.0\23-to do versus while challenge activity.pdb
+D:\coding_dojo\C Sharp\C#\CsharpProjects\23-to do versus while challenge activity\obj\Debug\net9.0\23-to do versus while challenge activity.genruntimeconfig.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\23-to do versus while challenge activity\obj\Debug\net9.0\ref\23-to do versus while challenge activity.dll
